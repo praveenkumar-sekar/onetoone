@@ -1,0 +1,5 @@
+com\demoproject\onetoone\repository\AddressRepository.class
+com\demoproject\onetoone\repository\StudentRepository.class
+com\demoproject\onetoone\Model\Student.class
+com\demoproject\onetoone\OnetooneApplication.class
+com\demoproject\onetoone\Model\Address.class
